@@ -131,3 +131,13 @@ section {
   text-align: right;
   border-right-width: 0;
 }
+
+.prose {
+  text-align: justify;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.prose p {
+  margin: 20px auto;
+}
